@@ -1,0 +1,12 @@
+.filter-wrapper, .radio-wrapper {
+    display: flex;
+    justify-content: start;
+}
+
+.filter-wrapper {
+    flex-direction: column;
+}
+
+.radio-wrapper {
+    flex-direction: row;
+}

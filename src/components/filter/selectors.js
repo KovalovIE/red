@@ -1,0 +1,1 @@
+export const getCurrentFilter = state => state.filter;
